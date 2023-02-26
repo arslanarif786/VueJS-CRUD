@@ -4,9 +4,13 @@
 ```
 npm install
 ```
+## Install Json-server
+```
+npm install -g json-server
+```
 ## Start Json-server run this command on cmd in project file
 ```
-json-server --watch src/data/db.json
+json-server --watch src/data/db.json OR npx json-server --watch src/data/db.json
 ```
 ### Compiles and hot-reloads for development
 ```
@@ -27,29 +31,39 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
+# Use Json Server
+![Screenshot (152)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/0.png)
+
 # Main Screen
-![Screenshot (140)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/0.png)
+![Screenshot (140)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/1.png)
 
 # Only Completed
-![Screenshot (141)](https://user-images.githubusercontent.com/92371450/163733420-22c66735-b113-48d3-8c91-8607e9158f54.png)
+![Screenshot (141)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/2.png)
 
 # Only Not Completed
-![Screenshot (142)](https://user-images.githubusercontent.com/92371450/163733449-256a60fe-5c09-4de1-84a0-2814912792bd.png)
+![Screenshot (142)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/3.png)
+
+# Only Male
+![Screenshot (143)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/4.png)
 
 # Add Employee Modal
-![Screenshot (147)](https://user-images.githubusercontent.com/92371450/163733499-0edbce68-27b4-420d-ae2c-b34198c9ed6b.png)
+![Screenshot (147)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/5.png)
 
 # Delete Employee Modal
-![Screenshot (148)](https://user-images.githubusercontent.com/92371450/163733502-d4eaf42d-12dc-47e8-8d04-33b2a14512ec.png)
+![Screenshot (148)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/7.png)
 
 # Update Employee Page
-![Screenshot (149)](https://user-images.githubusercontent.com/92371450/163733505-471ed305-17d2-4de7-9de6-6b898f18493d.png)
+![Screenshot (149)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/6.png)
+
+# Search By Employee Name
+![Screenshot (154)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/8.png)
+
+# Search By Employee Designation
+![Screenshot (154)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/9.png)
 
 # Use LocalStoarge
-![Screenshot (150)](https://user-images.githubusercontent.com/92371450/163733582-5e5d0552-b727-422e-a111-a808dfa6e96a.png)
+![Screenshot (150)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/10.png)
 
-# Use Json Server
-![Screenshot (152)](https://user-images.githubusercontent.com/92371450/163733585-8cac0428-876d-4790-bb05-678572672b62.png)
 
 
 
