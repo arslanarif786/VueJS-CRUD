@@ -1,4 +1,4 @@
-# vuejs-task
+# vuejs-CRUD
 
 ## Project setup
 ```
@@ -28,7 +28,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 # Main Screen
-![Screenshot (140)](https://user-images.githubusercontent.com/92371450/163733370-ae7ee3af-c6c8-4e1b-91ee-6e446cd8fd02.png)
+![Screenshot (140)](https://github.com/arslanarif786/VueJS-CRUD/blob/master/src/assets/Screenshots/0.png)
 
 # Only Completed
 ![Screenshot (141)](https://user-images.githubusercontent.com/92371450/163733420-22c66735-b113-48d3-8c91-8607e9158f54.png)
